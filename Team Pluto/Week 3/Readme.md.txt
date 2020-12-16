@@ -9,6 +9,7 @@ Tensorflow Tutorial posts:
 
 1. https://www.tensorflow.org/tutorials/images/cnn
 2. https://www.tensorflow.org/tutorials/images/classification?hl=ja
+3. https://www.tensorflow.org/tutorials/quickstart/beginner
 
 Wikipedia(Toeplitz matrix) :
 
